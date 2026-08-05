@@ -9,12 +9,6 @@
 
 ---
 
-###  About Me
-
-- BCA student with a strong interest in **Full-Stack Development**, **Artificial Intelligence**, and **Machine Learning**
-
----
-
 ###  Tech Stack
 
 
