@@ -21,7 +21,7 @@
 ###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,html,css,react,nextjs,nodejs,express,nestjs,graphql,mongodb,mysql,docker,kubernetes,git,github,githubactions,tensorflow,sklearn,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,go,html,css,react,nextjs,nodejs,express,nestjs,graphql,mongodb,mysql,postgresql,docker,kubernetes,git,github,githubactions,tensorflow,fastapi,sklearn,postman,linux&theme=dark" />
 </p>
 
 <p align="center">
@@ -94,8 +94,4 @@
   <a href="https://www.linkedin.com/in/dinesh-kadel-7aa589292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
