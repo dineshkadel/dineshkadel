@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="" width="100%"/>
+      <img src="assets/echo.png" width="100%"/>
     </td>
     <td valign="top">
       <h3>Echo : Real-Time Chat App</h3>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="" width="100%"/>
+      <img src="assets/foodordering.png" width="100%"/>
     </td>
     <td valign="top">
       <h3>Multi vendor Food Ordering (MERN)</h3>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="" width="100%"/>
+      <img src="assets/medicalimg.png" width="100%"/>
     </td>
     <td valign="top">
       <h3>Medical Image Classifier -CNN</h3>
